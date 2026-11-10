@@ -30,3 +30,6 @@ target/
 # OS
 .DS_Store
 Thumbs.db
+# Wireshark captures
+*.pcap
+*.pcapng
