@@ -2,6 +2,10 @@
 *.log
 logs/
 
+# SSH keys
+qwerty_aboba
+qwerty_aboba.pub
+
 # Temporary files
 *.tmp
 *.temp
@@ -30,3 +34,6 @@ target/
 # OS
 .DS_Store
 Thumbs.db
+# Wireshark captures
+*.pcap
+*.pcapng
